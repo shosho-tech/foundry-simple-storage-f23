@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+# Password
+.password
+
+# Libs
+lib/
+
+# Broadcast
+broadcast/
